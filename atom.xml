@@ -6,7 +6,7 @@
   <link href="https://miraclet.net/atom.xml" rel="self"/>
   
   <link href="https://miraclet.net/"/>
-  <updated>2022-04-08T01:43:28.433Z</updated>
+  <updated>2022-04-08T12:30:46.906Z</updated>
   <id>https://miraclet.net/</id>
   
   <author>
@@ -17,21 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>[II] Hexo 简明教程 - 指令详解</title>
+    <link href="https://miraclet.net/posts/2087b6dc.html"/>
+    <id>https://miraclet.net/posts/2087b6dc.html</id>
+    <published>2022-04-08T07:28:26.000Z</published>
+    <updated>2022-04-08T12:30:46.906Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;为了方便查阅，这里整理了 Hexo 的所有指令。&lt;/br&gt;参考：&lt;a href=&quot;https://hexo.io/zh-cn/docs/commands.html&quot;&gt;指令 | Hexo&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;基本选项&quot;&gt;&lt;a href=&quot;#基本选项&quot; class=&quot;headerlink&quot; title=&quot;基本选项&quot;&gt;&lt;/a&gt;基本选项&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo init [folder]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;初始化一个网站。如果没有设置 &lt;code&gt;folder&lt;/code&gt; ，Hexo 默认在当前的文件夹建立网站。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://miraclet.net/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://miraclet.net/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>[I] Hexo 简明教程 - 环境搭建</title>
     <link href="https://miraclet.net/posts/6c222c7f.html"/>
     <id>https://miraclet.net/posts/6c222c7f.html</id>
-    <published>2022-04-07T12:56:55.076Z</published>
-    <updated>2022-04-08T01:43:28.433Z</updated>
+    <published>2022-04-07T03:10:36.000Z</published>
+    <updated>2022-04-08T07:55:08.714Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; 是一个快速、简洁且高效的&lt;strong&gt;博客框架&lt;/strong&gt;。 Hexo 使用 Markdown</summary>
-        
-      
+&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; 是一个快速、简洁且高效的&lt;strong&gt;博客框架&lt;/strong&gt;。 Hexo 使用 Markdown （或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本系列仅介绍基础使用教程，涉及到 Hexo 安装、配置、部署以及发布等内容。基本满足了想快速上手的需求。更详细的使用方法，参考 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;Hexo 官方文档&lt;/a&gt; 以及 &lt;a href=&quot;https://theme-next.js.org/&quot;&gt;NexT 主题文档&lt;/a&gt;。&lt;/p&gt;</summary>
     
     
     
