@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nisan&#39;s Blog</title>
+    <link>https://miraclet.net/</link>
+    
+    <image>
+      <url>https://miraclet.net/icon.png</url>
+      <title>Nisan&#39;s Blog</title>
+      <link>https://miraclet.net/</link>
+    </image>
+    
+    <atom:link href="https://miraclet.net/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Fri, 08 Apr 2022 01:43:28 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[I] Hexo 简明教程 - 环境搭建</title>
+      <link>https://miraclet.net/posts/6c222c7f.html</link>
+      <guid>https://miraclet.net/posts/6c222c7f.html</guid>
+      <pubDate>Thu, 07 Apr 2022 12:56:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt; 是一个快速、简洁且高效的&lt;strong&gt;博客框架&lt;/strong&gt;。 Hexo 使用 Markdown</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://miraclet.net/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="https://miraclet.net/tags/Hexo/">Hexo</category>
+      
+      
+      <comments>https://miraclet.net/posts/6c222c7f.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
