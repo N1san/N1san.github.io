@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /tags/
+Allow: /categories/
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /scripts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://www.miraclet.net/sitemap.xml
+Sitemap: https://www.miraclet.net/baidusitemap.xml
