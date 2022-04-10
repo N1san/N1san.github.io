@@ -6,7 +6,7 @@
   <link href="https://www.miraclet.net/atom.xml" rel="self"/>
   
   <link href="https://www.miraclet.net/"/>
-  <updated>2022-04-10T08:22:22.051Z</updated>
+  <updated>2022-04-10T09:01:01.455Z</updated>
   <id>https://www.miraclet.net/</id>
   
   <author>
@@ -21,19 +21,13 @@
     <link href="https://www.miraclet.net/posts/51fc7419.html"/>
     <id>https://www.miraclet.net/posts/51fc7419.html</id>
     <published>2022-04-10T02:14:22.000Z</published>
-    <updated>2022-04-10T08:22:22.051Z</updated>
+    <updated>2022-04-10T09:01:01.455Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Hexo 默认的 Landscape 主题不够美观，本文介绍如何使用 NexT 主题以及基础配置教程。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;0x01-选择主题&quot;&gt;&lt;a href=&quot;#0x01-选择主题&quot;</summary>
-        
-      
+&lt;h2 id=&quot;0x01-选择主题&quot;&gt;&lt;a href=&quot;#0x01-选择主题&quot; class=&quot;headerlink&quot; title=&quot;0x01 选择主题&quot;&gt;&lt;/a&gt;0x01 选择主题&lt;/h2&gt;&lt;p&gt;此系列 Hexo 教程使用 &lt;a href=&quot;https://theme-next.js.org/&quot;&gt;NexT 主题&lt;/a&gt;，更多主题请访问 &lt;a href=&quot;https://hexo.io/themes/index.html&quot;&gt;Themes | Hexo&lt;/a&gt;。&lt;/p&gt;</summary>
     
     
     
