@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.miraclet.net/about/index.html</loc>
-    
-    <lastmod>2022-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.miraclet.net/posts/2087b6dc.html</loc>
     
-    <lastmod>2022-04-08</lastmod>
+    <lastmod>2022-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +12,24 @@
   
   <url>
     <loc>https://www.miraclet.net/posts/6c222c7f.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.miraclet.net/posts/51fc7419.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.miraclet.net/about/index.html</loc>
     
     <lastmod>2022-04-08</lastmod>
     
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://www.miraclet.net/</loc>
-    <lastmod>2022-04-09</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,7 +75,7 @@
   
   <url>
     <loc>https://www.miraclet.net/tags/Hexo/</loc>
-    <lastmod>2022-04-09</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -75,7 +84,7 @@
   
   <url>
     <loc>https://www.miraclet.net/categories/Hexo/</loc>
-    <lastmod>2022-04-09</lastmod>
+    <lastmod>2022-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

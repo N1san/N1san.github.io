@@ -15,8 +15,38 @@
     <atom:link href="https://www.miraclet.net/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Nisan的博客</description>
-    <pubDate>Fri, 08 Apr 2022 12:30:46 GMT</pubDate>
+    <pubDate>Sun, 10 Apr 2022 08:22:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>[III] Hexo 简明教程 - 使用主题</title>
+      <link>https://www.miraclet.net/posts/51fc7419.html</link>
+      <guid>https://www.miraclet.net/posts/51fc7419.html</guid>
+      <pubDate>Sun, 10 Apr 2022 02:14:22 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Hexo 默认的 Landscape 主题不够美观，本文介绍如何使用 NexT 主题以及基础配置教程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;0x01-选择主题&quot;&gt;&lt;a href=&quot;#0x01-选择主题&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.miraclet.net/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="https://www.miraclet.net/tags/Hexo/">Hexo</category>
+      
+      
+      <comments>https://www.miraclet.net/posts/51fc7419.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>[II] Hexo 简明教程 - 指令详解</title>
@@ -25,7 +55,7 @@
       <pubDate>Fri, 08 Apr 2022 07:28:26 GMT</pubDate>
       
       <description>&lt;blockquote&gt;
-&lt;p&gt;为了方便查阅，这里整理了 Hexo 的所有指令。&lt;/br&gt;参考：&lt;a href=&quot;https://hexo.io/zh-cn/docs/commands.html&quot;&gt;指令 | Hexo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;为了方便查阅，这里整理了 Hexo 的所有指令。&lt;/br&gt;参考：&lt;a href=&quot;https://hexo.io/docs/commands.html&quot;&gt;Commands | Hexo&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;基本选项&quot;&gt;&lt;a href=&quot;#基本选项&quot; class=&quot;headerlink&quot; title=&quot;基本选项&quot;&gt;&lt;/a&gt;基本选项&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo init [folder]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 

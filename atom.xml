@@ -6,7 +6,7 @@
   <link href="https://www.miraclet.net/atom.xml" rel="self"/>
   
   <link href="https://www.miraclet.net/"/>
-  <updated>2022-04-08T12:30:46.906Z</updated>
+  <updated>2022-04-10T08:22:22.051Z</updated>
   <id>https://www.miraclet.net/</id>
   
   <author>
@@ -17,15 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>[III] Hexo 简明教程 - 使用主题</title>
+    <link href="https://www.miraclet.net/posts/51fc7419.html"/>
+    <id>https://www.miraclet.net/posts/51fc7419.html</id>
+    <published>2022-04-10T02:14:22.000Z</published>
+    <updated>2022-04-10T08:22:22.051Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;Hexo 默认的 Landscape 主题不够美观，本文介绍如何使用 NexT 主题以及基础配置教程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;0x01-选择主题&quot;&gt;&lt;a href=&quot;#0x01-选择主题&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://www.miraclet.net/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://www.miraclet.net/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>[II] Hexo 简明教程 - 指令详解</title>
     <link href="https://www.miraclet.net/posts/2087b6dc.html"/>
     <id>https://www.miraclet.net/posts/2087b6dc.html</id>
     <published>2022-04-08T07:28:26.000Z</published>
-    <updated>2022-04-08T12:30:46.906Z</updated>
+    <updated>2022-04-10T08:24:26.940Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;为了方便查阅，这里整理了 Hexo 的所有指令。&lt;/br&gt;参考：&lt;a href=&quot;https://hexo.io/zh-cn/docs/commands.html&quot;&gt;指令 | Hexo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;为了方便查阅，这里整理了 Hexo 的所有指令。&lt;/br&gt;参考：&lt;a href=&quot;https://hexo.io/docs/commands.html&quot;&gt;Commands | Hexo&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;基本选项&quot;&gt;&lt;a href=&quot;#基本选项&quot; class=&quot;headerlink&quot; title=&quot;基本选项&quot;&gt;&lt;/a&gt;基本选项&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo init [folder]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -45,7 +73,7 @@
     <link href="https://www.miraclet.net/posts/6c222c7f.html"/>
     <id>https://www.miraclet.net/posts/6c222c7f.html</id>
     <published>2022-04-07T03:10:36.000Z</published>
-    <updated>2022-04-08T07:55:08.714Z</updated>
+    <updated>2022-04-10T08:24:16.920Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
